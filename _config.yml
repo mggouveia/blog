@@ -68,22 +68,18 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mggouveia/"
-      target: "_blank"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mggouveia"
-      target: "_blank"
 
 footer:
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mggouveia/"
-      target: "_blank"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mggouveia"
-      target: "_blank"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
@@ -94,7 +90,6 @@ defaults:
       path: ""
       type: posts
     values:
-      css: "/assets/css/custom.css"
       layout: single
       author_profile: true
       read_time: true
