@@ -1,0 +1,8 @@
+.author__avatar img {
+  opacity: 1 !important;
+  transition: none !important;
+}
+
+.author__avatar:hover img {
+  opacity: 1 !important;
+}
