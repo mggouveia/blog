@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Miguel Gouveia"
-  avatar : "/assets/images/avatar.jpg"
+  avatar : "/assets/images/avatar.png"
   bio    : "Passionate about tech, music, gaming, and helping others grow."
   links:
     - label: "Website"
