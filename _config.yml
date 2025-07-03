@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Designed for IT professionals, students, and tech enthusiasts, the blog aims to provide valuable resources that help readers improve their skills and confidently tackle real-world IT challenges.
 linkedin_username: mggouveia
 github_username: mggouveia
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
