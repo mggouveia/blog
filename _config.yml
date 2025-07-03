@@ -66,7 +66,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://www.miguelgouveia.net"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fa fa-linkedin"
       url: "https://linkedin.com/mggouveia"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -74,12 +74,12 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    label: "Linkedin"
+      icon: "fa fa-linkedin"
+      url: "https://linkedin.com/mggouveia"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/mggouveia"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
