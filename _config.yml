@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Miguel Gouveia
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  This blog is dedicated to sharing practical knowledge and insights about Microsoft technologies, with a focus on SCCM, Intune, and related IT management tools. 
+  You’ll find informative articles, step-by-step tutorials, troubleshooting guides, and updates on the latest trends in enterprise device management and security.
+  Designed for IT professionals, students, and tech enthusiasts, the blog aims to provide valuable resources that help readers improve their skills and confidently tackle real-world IT challenges.
+linkedin_username: mggouveia
+github_username: mggouveia
 minimal_mistakes_skin: default
 search: true
 
@@ -58,22 +58,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Miguel Gouveia"
+  avatar : "/assets/images/avatar.jpg"
+  bio    : "Passionate about tech, music, gaming, and helping others grow."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.miguelgouveia.net"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://linkedin.com/mggouveia"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/mggouveia"
 
 footer:
   links:
@@ -83,9 +80,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
 
 defaults:
   # _posts
